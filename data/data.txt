@@ -1,0 +1,14 @@
+
+Dataset Link -
+https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000/download
+
+Place in a folder with the following conventions
+Images - HAM10000_images_part_1
+	 HAM10000_images_part_2
+Flat file - HAM10000_metadata
+
+Segmented images(Labels for images (Ground Truth)):
+https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/DBW86T/EGDUDF&version=2.0
+
+Trainx contains all 10015 HAM images
+Trainy contains corresponding masks
